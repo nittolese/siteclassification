@@ -1,13 +1,13 @@
 article,2
-article -Breadcrumb-ContactPoint-Organization-SearchAction,1
-Article-Breadcrumb-end,1
+article-Breadcrumb-ContactPoint-Organization-SearchAction,1
+article-Breadcrumb-end,1
 article-Breadcrumb-ImageObject-NewsArticle-Organization,1
 article-Breadcrumb-ImageObject-Organization-Person-WebPage,1
 article-BreadcrumbList-Comment-ImageObject-ListItem-Organization-Person-UserComments-WebPage,1
 article-BreadcrumbList-ImageObject-InteractionCounter-ListItem-NewsArticle-Organization-Person-WebPage,1
 article-BreadcrumbList-ImageObject-ListItem-LocalBusiness-Organization-Thing-website,1
 article-BreadcrumbList-ImageObject-ListItem-Organization-Person-WebPage-WebSite,1
-Article-ImageObject-Organization-Person-end,1
+article-ImageObject-Organization-Person-end,1
 article-ImageObject-Organization-Person-SpeakableSpecification-WebPage,1
 article-ImageObject-Organization-Person-WebPage,6
 article-ImageObject-Organization-WebPage,1
@@ -25,5 +25,5 @@ BreadcrumbList-ListItem-Organization-website,1
 BreadcrumbList-ListItem-product.group,1
 BreadcrumbList-ListItem-website-end,1
 product,1
-product.group,2
+product_group,2
 website,2
